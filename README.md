@@ -1,5 +1,5 @@
 ## Hi, I'm Sophia.
-
+I’m a data science senior student using technology to make healthcare more human. In 2025–2026, my focus is on operational AI and clinical decision support to reduce burnout for providers and improve patient care. My training in nursing and biology, combined with programming and data analysis skills, lets me build tools that actually help people. Growing up between Washington D.C. and Seoul as a 1.5-generation Korean American taught me to navigate complex systems, and I bring that perspective to designing simple, effective, human-centered solutions. Outside of tech, I’m a licensed yoga instructor and enjoy exploring finance, real estate, and personal development topics on my own. I’m happy to connect with anyone working on healthcare AI, wellness, or applied data projects!
 <!--
 **frodria04/frodria04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 []specify what repo to look at. highlight me?  My resume link. literally highlight and include hyperlinks
